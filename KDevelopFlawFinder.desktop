@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Service
+Exec=blubb
+Icon=debugger
+Comment=FlawFinder runner for KDevelop
+Name=FlawFinder
+Generic-Name=FlawFinder
+ServiceTypes=KDevelop/Plugin
+
+X-KDE-Library=KDevelopFlawFinder
+X-KDE-PluginInfo-Name=KDevelopFlawFinder
+X-KDE-PluginInfo-Author=Kenneth Perry (thothonegan)
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Category=Other
+X-KDevelop-Version=12
+X-KDevelop-Category=Global
+X-KDevelop-Mode=GUI
+
